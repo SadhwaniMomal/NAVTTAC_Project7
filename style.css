@@ -1,0 +1,19 @@
+form {
+  background-color: palevioletred;
+  border-radius: 20px;
+  margin: auto 400px;
+  padding: 50px;
+}
+
+.image-button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.submit-button img,
+.reset-button img {
+  width: 100px;
+  height: 100px;
+  margin: 15px;
+}
